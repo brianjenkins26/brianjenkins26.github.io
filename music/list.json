@@ -6,5 +6,13 @@
     "marley": {
         "title": "Could You Be Loved",
         "artist": "Bob Marley"
+    },
+    "Drake - Hotline Bling" :{
+        "title" : "Hotline Bling",
+        "artist" : "Drake"
+    },
+    "The Weeknd - Can't Feel My Face" :{
+        "title" : "Can't Feel My Face",
+        "artist" : "The Weeknd"
     }
 }
