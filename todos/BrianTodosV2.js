@@ -27,6 +27,5 @@ function deleteTodo(i){
 	todos.splice(i,1);
 	displayTodos();
 }
-displaytodo
 
 
