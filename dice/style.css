@@ -1,4 +1,5 @@
 .appHolder{
+    background: lightgray;   
     width: 250px;
     margin: 100px auto;
     text-align: center;
@@ -8,5 +9,22 @@
     padding: 1rem;
     padding-top: 0;
     user-select: none;
+    
+}
+
+.button{
+    width: 40%;
+    height: 20%;
+    border-radius: 0.5rem;
+    background: linear-gradient(white,lightblue);
+    margin: 0 auto;
+    font-size: 1.4rem;
+    padding: 5px;
+    font-family: sans-serif;
+    
+}
+
+.button:active{
+    background: linear-gradient(lightblue,white);
     
 }
