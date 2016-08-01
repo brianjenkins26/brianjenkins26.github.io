@@ -1,7 +1,11 @@
+h1{
+    font-size: 3rem;
+    width: 25rem;
+}
 #words{
     width:25%;
     margin: 0 auto; /*centers the div*/
     text-align: center; /* centers text in the div.*/   
     border: 1px solid red;
-    font-size: 20px;
+    font-size: 2rem;
 }
